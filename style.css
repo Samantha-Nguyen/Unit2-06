@@ -1,0 +1,21 @@
+#background {
+  background-color: #000000;
+}
+
+#h1 {
+  color: #ffffff;
+}
+
+#p1 {
+  color: #ffffff;
+}
+
+table, th, td {
+  border: 1px solid #ffffff;
+  border-collapse: collapse;
+  color: #ffffff;
+}
+
+th, td {
+  padding: 5px;
+}
