@@ -1,5 +1,5 @@
 #background {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 #h1 {
@@ -8,14 +8,6 @@
 
 #p1 {
   color: #b366ff;
-}
-
-table, th, td {
-  border: 1px solid #000000;
-  border-collapse: collapse;
-  color: #b366ff;
-  padding: 5px;
-  width: 30%;
 }
 
 #image1 {
