@@ -1,21 +1,23 @@
 #background {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 
 #h1 {
-  color: #ffffff;
+  color: #5900b3;
 }
 
 #p1 {
-  color: #ffffff;
+  color: #b366ff;
 }
 
 table, th, td {
-  border: 1px solid #ffffff;
+  border: 1px solid #000000;
   border-collapse: collapse;
-  color: #ffffff;
+  color: #b366ff;
+  padding: 5px;
 }
 
-th, td {
-  padding: 5px;
+#image1 {
+  width: 50%
+  height: 50%
 }
